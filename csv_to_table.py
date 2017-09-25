@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
-from sys import stdin
 from csv import reader
+from sys import stdin
+
 from simple_table import draw_table
 
-LONGUELIGNE = False
 MAXIMUM = 80
 
 data = list(reader(iter(stdin)))
