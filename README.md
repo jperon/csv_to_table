@@ -6,6 +6,10 @@ Conversion de csv en tableau ascii
 
 Faciliter la création de "grid table" pour Markdown avec Pandoc.
 
+## Dépendance
+
+Dépend de [py_simple_table](https://github.com/pedrudehuere/py_simple_table).
+
 ## Utilisation
 
 *csv_to_table* lit le contenu csv qui lui est donné en entrée,
